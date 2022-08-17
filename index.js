@@ -1,4 +1,4 @@
-import {hiddenElement} from '/allModules/functions.js';
+import {hiddenElement} from './allModules/functions.js';
 
 
 
